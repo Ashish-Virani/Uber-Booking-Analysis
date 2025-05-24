@@ -38,8 +38,8 @@ To visualize key metrics like ride distribution, cancellations, and peak activit
 
 🖼️ Screenshots / Demo
 
-![Dashboard Overview](https://raw.githubusercontent.com/YourUsername/Uber-Booking-Analysis/main/Uber%20Dashboard%20Overview.png)  
+![Dashboard Overview](https://github.com/Ashish-Virani/Uber-Booking-Analysis/main/Uber%20Dashboard%20Overview.png)  
 *Trip status and hourly demand visualization*
 
-![Cancellation Analysis](https://raw.githubusercontent.com/YourUsername/Uber-Booking-Analysis/main/Uber%20Cancellation%20Trends.png)  
+![Cancellation Analysis](https://github.com/Ashish-Virani/Uber-Booking-Analysis/blob/main/Uber%20Cancellation.png)  
 *Visual analysis of cancellation trends by status and time*
