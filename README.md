@@ -36,7 +36,7 @@ To visualize key metrics like ride distribution, cancellations, and peak activit
 - Found a concentration of cancellations during late-night and early-morning hours  
 - Dashboards enable actionable decisions around staffing, routing, and promotions
 
-#🖼️ Screenshots / Demo
+## 🖼️ Screenshots / Demo
 
 ![Dashboard Overview](https://github.com/Ashish-Virani/Uber-Booking-Analysis/blob/main/Uber%20Dashboard.png)  
 *Trip status and hourly demand visualization*
