@@ -15,7 +15,7 @@ This project explores patterns and user behavior from Uber booking records to un
 ## 📊 Data Source
 - Dataset: Uber Booking Records (70,000+ entries)  
 - Includes fields like Trip ID, Pickup Time, Status, Destination, Driver ID, etc.  
-- Extracted from public sample data repositories for visualization and analysis purposes
+- Extracted from Kaggle
 
 ## ✨ Features & Highlights
 
